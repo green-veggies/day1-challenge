@@ -1,7 +1,7 @@
 def greet():
-    print('Hi, welcome to git and github session, updated in feature-update branch')
+    print('Hi, welcome to git and github session')
 
 def farewell():
-    print('Bye, now go home, updated in feature-update branch')
+    print('Bye, now go home')
 greet()
 farewell()
